@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, actually in Python and Django.
+一个努力想达到I/O平衡的PM.
+一个将世界游戏化的NPC。
 
-email: agus[at]python.web.id
+*DreamPOP*
+*歌剧魅影*
+*World of Warcraft*
