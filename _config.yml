@@ -15,15 +15,15 @@ collections:
     permalink: /project/:path/
 
 social:
-//    - icon: fa-facebook
+*    - icon: fa-facebook
       link: "#"
-//    - icon: fa-skype
+*    - icon: fa-skype
       link: "#"
     - icon: fa-twitter
       link: "https://twitter.com/straightea"
-//    - icon: fa-linkedin
+*    - icon: fa-linkedin
       link: "#"
-//    - icon: fa-stack-exchange
+*    - icon: fa-stack-exchange
       link: "#"
 
 share:
