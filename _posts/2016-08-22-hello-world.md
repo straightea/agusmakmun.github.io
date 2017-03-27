@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2016-08-22 16:44:45 +0800
-categories: [python, codefights]
+categories: [producter]
 ---
 
 ## 二级标题

@@ -2,7 +2,7 @@
 layout: post
 title:  "get Month Name [CF]"
 date:   2016-06-11 03:43:45 +0700
-categories: [python, codefights]
+categories: [producter,travel]
 ---
 
 Map the given integer to a month.
@@ -28,8 +28,8 @@ Here are abbreviations of all months:
 ```python
 def getMonthName(mo):
     months = {
-        1: "Jan", 2: "Feb", 3: "Mar", 4:"Apr", 
-        5: "May", 6: "Jun", 7: "Jul", 8:"Aug", 
+        1: "Jan", 2: "Feb", 3: "Mar", 4:"Apr",
+        5: "May", 6: "Jun", 7: "Jul", 8:"Aug",
         9: "Sep", 10: "Oct", 11: "Nov", 12: "Dec"
     }
     if mo in months.keys():
