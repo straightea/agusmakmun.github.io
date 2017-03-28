@@ -2,7 +2,7 @@
 	{
 		"slug": "cool-project",
 		"name": "Cool project 1",
-		"image": "placeholder.jpg",
+		"image": "<img src=http://straightea.com/static/img/avatar.jpg>",
 		"url": "https://www.google.com",
 		"date": "Jan 2014",
 		"tags": ["Angular JS","API"]
