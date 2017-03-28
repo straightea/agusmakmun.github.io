@@ -2,10 +2,10 @@
 	{
 		"slug": "cool-project",
 		"name": "Cool project 1",
-		"image": "<img src=http://straightea.com/static/img/avatar.jpg>",
+		"image": "avatar.jpg",
 		"url": "https://www.google.com",
 		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"tags": ["test","API"]
 	},
 	{
 		"name": "Cool project 2",
