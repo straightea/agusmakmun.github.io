@@ -29,16 +29,16 @@ categories: [Music]
 
 综上，犯错较少的网易云音乐取得了保守的胜利。
 
-<img src=“http://om8elxcsh.bkt.clouddn.com/1111.png”>
+![img](http://om8elxcsh.bkt.clouddn.com/1111.png)
 
 ### 推荐歌单的年份分布对比
 网易云推荐的歌较新，平均发布时间比虾米晚1.5年——
 
-<img src=“http://om8elxcsh.bkt.clouddn.com/2222.png”>
+![img](http://om8elxcsh.bkt.clouddn.com/2222.png)
 
 从歌曲的出版年份整体分布来看，也是网易最近几年的歌推荐的多一点。
 
-<img src=“http://om8elxcsh.bkt.clouddn.com/3333.png”>
+![img](http://om8elxcsh.bkt.clouddn.com/3333.png)
 
 > 另，怀疑1991-1994年的歌曲版权有什么问题，为什么两家都一首歌没推荐？
 ￼
@@ -49,11 +49,11 @@ categories: [Music]
 
 虾米总体来说没有那么“偏科”，什么都推荐一点，中规中矩。
 
-<img src=“http://om8elxcsh.bkt.clouddn.com/FC6D4D1B-4FDB-453D-999A-601E85A4EB7F.png”>
+![img](http://om8elxcsh.bkt.clouddn.com/FC6D4D1B-4FDB-453D-999A-601E85A4EB7F.png)
 
 因为歌单的推荐类型比较杂，接下来在我听的最多的4种音乐类型中，来比对各家推荐的优势项目。万万没想到，网易云音乐依然表现很棒！？？？
 
-<img src=“http://om8elxcsh.bkt.clouddn.com/8484C424-3CC8-499C-A54E-592C490DEE00.png”>
+![img](http://om8elxcsh.bkt.clouddn.com/8484C424-3CC8-499C-A54E-592C490DEE00.png)
 
 ### 本篇分析其实非常不靠谱…
 
