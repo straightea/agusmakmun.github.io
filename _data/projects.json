@@ -3,9 +3,9 @@
 		"slug": "cool-project",
 		"name": "Cool project 1",
 		"image": "avatar.jpg",
-		"url": "https://www.google.com",
+		"url": "https://www.baidu.com",
 		"date": "Jan 2014",
-		"tags": ["test","API"]
+		"tags": ["Django","API"]
 	},
 	{
 		"name": "Cool project 2",
@@ -39,10 +39,5 @@
 		"date": "Oct 2016",
 		"tags": ["Python","nodejs"]
 	}
-	{
-		"name": "Cool project 7",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
-	}
+
 ]
