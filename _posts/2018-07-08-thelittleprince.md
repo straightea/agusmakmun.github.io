@@ -14,7 +14,7 @@ categories: [books]
 ![img](http://om8elxcsh.bkt.clouddn.com/status.jpg)
 诚品的小王子75周年展，最让人惊喜的是互动。可以和小王子一起看日落，可以折一朵属于自己的独一无二的玫瑰，也可以扮演点灯人，用装置和路灯互动…
 
-![img](http://om8elxcsh.bkt.clouddn.com/giveit100-2.jpeg)
+![img](http://om8elxcsh.bkt.clouddn.com/books.jpg)
 看过《小王子》的人是世界上的第二大读者群了…
 
 
@@ -26,4 +26,4 @@ categories: [books]
 小王子：我的花儿……我对她负有责任！她是那么柔弱！她是那么天真。她只有四根微不足道的刺，用来抵御整个世界……
 
 
-![img]([http://om8elxcsh.bkt.clouddn.com/rose.jpg)
+![img](http://om8elxcsh.bkt.clouddn.com/COVER.jpg)
